@@ -1,0 +1,1 @@
+Este pequeno sistema simula um campeonato de futebol onde o usuário devidamente cadastrado e autenticado realiza o cadastro, alteração e exclusão de times da base.
